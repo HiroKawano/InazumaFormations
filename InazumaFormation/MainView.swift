@@ -21,7 +21,7 @@ struct MainView: View {
             .onAppear {
                 print("formations: \(viewModel.formations)")
             }
-            .navigationTitle("フォーメーション一覧")
+            .navigationTitle("フォーメーション")
         }
     }
 }
