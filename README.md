@@ -68,6 +68,9 @@
 ---
 
 ## 📁 ディレクトリ構成
+
+以下はプロジェクト内の主な構成です：
+```text
 InazumaFormation/
 ├── InazumaFormationApp.swift
 ├── Models/
