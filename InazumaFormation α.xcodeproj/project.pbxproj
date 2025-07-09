@@ -11,6 +11,11 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		4514ADF72E1DCB4A001BCDB9 /* Docs */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Docs;
+			sourceTree = "<group>";
+		};
 		45FC59262DBD350E0074E720 /* InazumaFormation */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = InazumaFormation;
@@ -32,6 +37,7 @@
 		45FC591B2DBD350E0074E720 = {
 			isa = PBXGroup;
 			children = (
+				4514ADF72E1DCB4A001BCDB9 /* Docs */,
 				45FC59262DBD350E0074E720 /* InazumaFormation */,
 				45FC59252DBD350E0074E720 /* Products */,
 			);
@@ -61,6 +67,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				4514ADF72E1DCB4A001BCDB9 /* Docs */,
 				45FC59262DBD350E0074E720 /* InazumaFormation */,
 			);
 			name = "InazumaFormation α";
