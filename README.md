@@ -24,10 +24,7 @@
 選手アイコンを視覚的かつ直感的に配置できるドラッグ＆ドロップ操作を取り入れ、楽しく・使いやすくデザインしました。
 フォーメーション記録をスクリーンショットなどで保存・共有することも可能です。
 
-![スクリーンショット1](Docs/image1.png)
-![スクリーンショット2](Docs/image1.png)
-![スクリーンショット3](Docs/image1.png)
-![スクリーンショット4](Docs/image1.png)
+<img src="Docs/image1.png" width="200" style="margin-right: 40px;" alt="スクリーンショット1"> <img src="Docs/image2.png" width="200" style="margin-right: 40px;" alt="スクリーンショット2"> <img src="Docs/image3.png" width="200" style="margin-right: 40px;" alt="スクリーンショット3"> <img src="Docs/image4.png" width="200" style="margin-right: 40px;" alt="スクリーンショット4">
 
 
 | 項目 | 内容 |
@@ -91,7 +88,7 @@ InazumaFormation/
 │   └── AccentColor.colorset/
 ├── Docs/
 │   ├── 要件定義書.md
-│   ├── UI設計書.md
+│   ├── README.md
 │   └── 画面遷移図.png
 └── README.md
 
